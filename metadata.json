@@ -1,0 +1,5 @@
+{
+  "name": "Planificador de Secciones IA v4",
+  "description": "Una aplicación para pegar datos de inscripción de alumnos, asignarlos a secciones de clase y copiar fácilmente las listas de cursos resultantes.",
+  "requestFramePermissions": []
+}
